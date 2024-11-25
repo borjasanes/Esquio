@@ -1,6 +1,6 @@
 <Project>
   <PropertyGroup Label="SDK Versions">
-    <NetFrameworkVersion>net6.0</NetFrameworkVersion>
+    <NetFrameworkVersion>net8.0</NetFrameworkVersion>
     <NetStandardVersion>netstandard21</NetStandardVersion>
     <NetTestSdk>17.0.0</NetTestSdk>
     <LangVersion>preview</LangVersion>
@@ -8,15 +8,15 @@
   </PropertyGroup>  
 
   <PropertyGroup Label="Esquio Versions">
-    <esquio>6.0.0$(VersionSuffix)</esquio>
-    <esquioaspnetcore>6.0.0$(VersionSuffix)</esquioaspnetcore>
-    <esquioaspnetcoreapplicationinsightsprocessor>6.0.0$(VersionSuffix)</esquioaspnetcoreapplicationinsightsprocessor>
-    <esquioconfigurationstore>6.0.0$(VersionSuffix)</esquioconfigurationstore>
-    <esquiodatabasestore>6.0.0$(VersionSuffix)</esquiodatabasestore>
-    <esquioentityframeworkstore>6.0.0$(VersionSuffix)</esquioentityframeworkstore>
-    <esquiominiprofiler>6.0.0$(VersionSuffix)</esquiominiprofiler>
-    <esquiocli>6.0.0$(VersionSuffix)</esquiocli>
-    <esquiohttpstore>6.0.0$(VersionSuffix)</esquiohttpstore>
-    <esquioblazorwasm>6.0.0$(VersionSuffix)</esquioblazorwasm>
+    <esquio>8.0.0$(VersionSuffix)</esquio>
+    <esquioaspnetcore>8.0.0$(VersionSuffix)</esquioaspnetcore>
+    <esquioaspnetcoreapplicationinsightsprocessor>8.0.0$(VersionSuffix)</esquioaspnetcoreapplicationinsightsprocessor>
+    <esquioconfigurationstore>8.0.0$(VersionSuffix)</esquioconfigurationstore>
+    <esquiodatabasestore>8.0.0$(VersionSuffix)</esquiodatabasestore>
+    <esquioentityframeworkstore>8.0.0$(VersionSuffix)</esquioentityframeworkstore>
+    <esquiominiprofiler>8.0.0$(VersionSuffix)</esquiominiprofiler>
+    <esquiocli>8.0.0$(VersionSuffix)</esquiocli>
+    <esquiohttpstore>8.0.0$(VersionSuffix)</esquiohttpstore>
+    <esquioblazorwasm>8.0.0$(VersionSuffix)</esquioblazorwasm>
   </PropertyGroup>
 </Project>
