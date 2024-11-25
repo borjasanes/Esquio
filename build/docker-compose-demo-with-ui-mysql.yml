@@ -33,7 +33,7 @@ services:
             - Security__OpenId__ClientId=interactive.public
             - Security__OpenId__Audience=api
             - Security__OpenId__Scope=api
-            - Security__OpenId__Authority=https://demo.identityserver.io/
+            - Security__OpenId__Authority=https://demo.duendesoftware.com/
             - Security__OpenId__ResponseType=code
             - Security__OpenId__RequireHttpsMetadata=true
     mysql:
